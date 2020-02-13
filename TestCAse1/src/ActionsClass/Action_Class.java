@@ -130,6 +130,9 @@ public class Action_Class
 		String tooltiptext= tiptext.getText();
 		System.out.println(tooltiptext);
 		
+		
+		System.out.println("Doing some changes here for github understanding");
+		
 		if(tooltiptext.equalsIgnoreCase("We ask for your age only for statistical purposes."))
 		{
 			System.out.println("Text Matched");
